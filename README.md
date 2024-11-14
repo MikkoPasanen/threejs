@@ -1,9 +1,9 @@
 # threejs
 
 Trying out Three.js for the fun of it. <br>
+Move around using our mouse!
 
-Available at linnki
-
+Live on <a href="https://mikkopasanen.github.io/threejs/">Github pages</a>
 ## Credits
 Models from [Sketchfab](https://sketchfab.com/)
 
